@@ -1,10 +1,8 @@
 <!-- header section -->
 <p align="center">
-    <p align="center">
-        <img src="https://i.imgur.com/t2aQUL1.png" height="224" /><br/>
-        <img src="https://i.imgur.com/DAaAKr4.jpg" height="224" /><br/>
-    </p>
-  <span><b>Tech-stack.</b></span><br/>
+  <img src="https://i.imgur.com/t2aQUL1.png" height="224" /><br/>
+  <img src="https://i.imgur.com/DAaAKr4.jpg" height="224" /><br/>
+  <span><b>React Native TDD.</b></span><br/>
   <span>Mobile Application Developed in <b>React Native.</b></span><br/>
   <span>Running on both mobile platforms, <b>Android 🤖</b> & <b>iOS 🍎</b>. </span><br/>
 </p>
