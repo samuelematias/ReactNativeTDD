@@ -19,7 +19,7 @@
 
 <!-- about app and course section -->
 
-## About this app and the course
+## About this app
 
 This app was developed on this Tutorial [Learn TDD in React Native](https://learntdd.in/react-native/) by [Josh Justice](https://twitter.com/CodingItWrong).<br/>
 In this application is used <b>Jest</b> test runner, and two testing libraries: <b>React Native Testing Library</b> for component tests and <b>Detox</b> for end-to-end tests.
