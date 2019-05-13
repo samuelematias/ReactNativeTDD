@@ -45,6 +45,13 @@ In this application is used <b>Jest</b> test runner, and two testing libraries: 
 
 ### Running the e2e test (TDD)
 
+To get Detox working, let’s first install the global Detox CLI tool:
+- `brew tap wix/brew`
+- `brew install --HEAD applesimutils`
+- `npm install -g detox-cli`
+
+Then, build the Detox version of the binary, and run the tests:
+- `detox build`
 - `detox test`
 <!-- - `react-native run-ios` or `react-native run-android` -->
 
